@@ -1,4 +1,4 @@
-# Cursor Rules for Claude - Gemini Style Guide
+# Gemini Style Guide
 
 ## はじめに
 このスタイルガイドは、Cursor IDEでのルール作成と最適化を支援するためのガイドラインです。
