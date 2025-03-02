@@ -1,0 +1,25 @@
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+.Trashes
+.Spotlight-V100
+.fseventsd
+
+# エディタ関連ファイル
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.cursor/
+
+# バックアップファイル
+*~
+*.bak
+*.swp
+
+# ログファイル
+*.log
+
+# その他
+node_modules/
+.env 
