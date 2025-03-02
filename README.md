@@ -1,21 +1,23 @@
 # Cursor Rules for Claude
 
-Cursor IDEでの開発を効率化するAnthropicのClaude/Claude Projects用インストラクションとプロジェクト知識ファイルのコレクションです。
+Cursor IDEの挙動制御に必要なルールを作るためのClaude Projects向けの設定ファイルです。
 
 ## 概要
 
-このリポジトリには、Cursor IDEでの`.cursor/rules`フォルダおよび`.cursorrules`ファイルの作成と活用をサポートするための各種チートシートやガイドラインが含まれています。
+本リポジトリには、Cursor IDE の挙動を制御するための、`User Rules`、`.cursorrules` ファイル、さらに `.cursor/rules` フォルダ内に配置される mdc ファイルの作成および活用を支援する、Claude Projects 向けのインストラクションとナレッジファイルが収められています。
 
-Cursorは優れたAI機能を持つIDEで、Anthropic Claudeのような高性能AIモデルと連携して開発を支援します。このリポジトリの知識を活用することで、CursorのAI支援機能をより効果的に利用できるようになります。
+Cursor は、Anthropic Claude-3.7-sonnet などの高性能 AI モデルと連携しながら、優れた AI 機能を発揮して開発支援を行う IDE です。なお、高度な AI 制御を実現するためには、上記の `User Rules`、`.cursorrules` ファイル、及び `.cursor/rules` フォルダ内の mdc ファイルの適切な活用が不可欠となります。
+
+本リポジトリの設定を Claude Projects に適用することで、Cursor の AI 支援機能をより効果的に引き出すルールファイルが作成できるとの期待のもと公開しています。
 
 ## 含まれるファイル
 
-- `instructions.md` - 基本的な使用方法の説明
-- `project_knowledge/` - 各種チートシートとガイドライン
-  - `Cusrorの .cursor_rulesフォルダ チートシート.md` - `.cursor/rules`フォルダの使い方と設定方法
-  - `Cursorの .cursorrulesファイル チートシート.md` - `.cursorrules`ファイルの書き方と活用法
-  - `User Rules（旧 "Rules for AI"）チートシート.md` - グローバルなAIルールの設定方法
-  - `プルリクエスト規約` - 協業のためのガイドライン
+- `instructions.md` - Claude Projectsのインストラクションに設定。基本的な動作。
+- `project_knowledge/` - Claude ProjectsのKnowledgeにアップロード、または「Add text contents」で設定。
+  - `Cusrorの .cursor_rulesフォルダ チートシート.md` - `.cursor/rules`の配下のmdcファイルの書き方
+  - `Cursorの .cursorrulesファイル チートシート.md` - `.cursorrules`ファイルの書き方
+  - `User Rules（旧 "Rules for AI"）チートシート.md` - グローバルなAIルールの書き方
+  - `プルリクエスト規約` - nishina555 さんのリポジトリを参照
 
 ## 使い方
 
@@ -25,7 +27,7 @@ Cursorは優れたAI機能を持つIDEで、Anthropic Claudeのような高性�
 
 ## 貢献方法
 
-プルリクエストや改善提案を歓迎します。貢献する際は「プルリクエスト規約」を参照してください。
+プルリクエストや改善提案を歓迎します。
 
 ## ライセンス
 
