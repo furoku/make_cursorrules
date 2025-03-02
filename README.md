@@ -1,4 +1,4 @@
-# Cursor Rules for Claude (Claude Projects対応)
+# ClaudeでCursor Rulesを作ろう
 
 Cursor IDEでの開発を効率化するためのClaude/Claude Projects用設定ファイルとガイドラインのコレクションです。
 
