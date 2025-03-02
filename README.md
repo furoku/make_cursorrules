@@ -1,6 +1,6 @@
 # ClaudeでCursor Rulesを作ろう
 
-Cursor IDEでの開発を効率化するためのClaude/Claude Projects用設定ファイルとガイドラインのコレクションです。
+Cursor IDEでの開発を効率化するためのClaude/Claude Projectsを作るためのコレクションです。
 
 ## 概要
 
